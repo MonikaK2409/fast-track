@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Clone Repo') {
             steps {
-                git url: 'https://github.com/your-username/fast-track.git'
+                git url: 'https://github.com/MonikaK2409/fast-track.git'
             }
         }
 
